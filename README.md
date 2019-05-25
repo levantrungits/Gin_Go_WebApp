@@ -8,6 +8,8 @@ Gin: A Website Application Framework for Go
 
 3. Responses
 
+4. Middleware
+
 ## Go - gin-gonic
 
 ========================================= Material
